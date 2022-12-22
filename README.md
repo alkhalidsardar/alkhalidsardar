@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Al Khalid
 🔰Currently Learning Frontend Development<br>📓Academics: 2nd Year Computer Engineering<br>📚Languages: Css ,Javascript,NodeJs,MySQL<br>🧊 Other : Youtuber 16k , Esports Player
 
 
