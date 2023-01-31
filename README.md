@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-weekly Profile Views
+Weekly Profile Views - 
 [![](https://visitcount.itsvg.in/api?id=alkhalidsardar&icon=1&color=2)](https://visitcount.itsvg.in)
 
 
