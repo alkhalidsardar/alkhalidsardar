@@ -1,5 +1,5 @@
 # Hi 👋, I'm Al Khalid
-🔰Currently Learning Frontend Development<br>📓Academics: 2nd Year Computer Engineering<br>📚Languages: Css ,Javascript,NodeJs,MySQL<br>🧊 Other : Youtuber 16k , Esports Player
+🔰Currently Learning Frontend Development<br>📓Academics: 2nd Year Computer Engineering<br>📚Languages: Css ,Javascript,NodeJs,MySQL<br>🧊 Frameworks : React js , Next Js , Tailwind Css
 
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
