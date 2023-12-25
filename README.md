@@ -3,7 +3,7 @@
 <div display="flex">
 <h2 align="left">Languages </h2>
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src ="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E" align="center">
+<img src ="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center">
 </div>
 <div display="flex">
 <h2 align="left">Libraries and Technologies</h2>
