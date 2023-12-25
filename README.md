@@ -1,5 +1,5 @@
 # Hi 👋, I'm Al Khalid
-🔰Domain - Software Engineer <br>📓Academics: 3rd Year Computer Engineering<br>📚Languages: Javascript , C++,  <br>🧊 Frameworks : React js , Next Js , Tailwind Css , Prisma Library
+🔰Domain - Software Engineer <br>📓Academics: 3rd Year Computer Engineering<br>📚Languages: Javascript , C++  <br>🧊 Frameworks : React js , Next Js , Tailwind Css , Prisma Library
 
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
