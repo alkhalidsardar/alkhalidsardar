@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black align="center">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black" align="center">
 </div>
  </br>
 
