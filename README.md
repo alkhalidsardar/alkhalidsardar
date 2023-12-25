@@ -29,7 +29,7 @@
 ![Snake animation](https://github.com/Tejender1521/Tejender1521/blob/output/github-contribution-grid-snake.svg)<img align="right"  alt="Header GIF" src="./code.gif" width="450" height="300" />
 
 # 📒 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alkhalidsardar&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=alkhalidsardar&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alkhalidsardar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhalidsardar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
